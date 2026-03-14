@@ -17,28 +17,34 @@ Generate 10 academic research questions about [PARAGRAPHS]
 Generate a list of research hypotheses related to [TOPIC SENTENCE]
 Identify potential areas for future research in the context of this [TOPIC SENTENCE]
 Suggest novel applications of [TOPIC SENTENCE] within [RESEARCH DOMAIN]
+
 ARTICLE SECTIONS
 Title/Topic Sentence
 Suggest 5 titles for the following abstract: [ABSTRACT PARAGRAPH]
 Write a topic sentence for this paragraph: [PARAGRAPH] 
+
 Keywords
 Provide 5 keywords for this: [PARAGRAPHS]
+
 Abstract
 Generate an abstract for a scientific paper based on this information for: [PARAGRAPHS]
+
 Outline
 Generate an outline for [TOPIC SENTENCE]
 I want to write a journal article about [TOPIC SENTENCE]. Give me an outline for the article that I can use as a starting point.
+
 Introduction
 Come up with an introduction for the following research topic: [TOPIC SENTENCE]
+
 Literature Review
 Conduct a literature review on [TOPIC SENTENCE] and provide review paper references
 Provide me with references and links to papers in [PARAPGRAPH]
 NOTE: Be careful and double-check article existence. ChatGPT may generate fake references
-
 Summarize the scholarly literature, including in text citations on [PARAGRAPHS]
 Write this in standard Harvard referencing [PARAGRAPH]
 Convert this [BIBLIOGRAPHY] from MLA to APA style.
 Compare and contrast [THEORY1] and [THEORY2] in the context of [RESEARCH DOMAIN]:
+
 Methodology
 Create objectives and methodology for [TOPIC SENTENCE]
 Write a detailed methodology for the topic: [TOPIC SENTENCE]
@@ -49,17 +55,23 @@ Create a recipe for the methods used in this [PARAGRAPHS]
 Suggest interdisciplinary approaches to [TOPIC SENTENCE]
 Explain how qualitative/quantitative research methods can be used to address [RESEARCH QUESTIONS]
 Recommend best practices for data collection and analysis in [TOPIC SENTENCE]
+
 Experiments
 Design an experiment that [ACTION]
+
 Results
 Write a result section for the following paragraphs. Please write this in the third person. [PARAGRAPHS]
+
 Discussion
 Discuss these results: [RESULT PARAGRAPHS]
+
 Conclusion
 Generate a conclusion for this: [PARAGRAPHS]
 Give recommendations and conclusion for: [PARAGRAPHS]
+
 Future Works
 Can you suggest 3 directions for future research on this topic: [PARAGRAPH]]?
+
 IMPROVING LANGUAGE
 Rewrite this paragraph in an academic language: [PARAGRAPH]
 Paraphrase the text using more academic and scientific language. Use a neutral tone and avoid repetitions of words and phrases. [PARAGRAPH]
@@ -87,6 +99,7 @@ Provide me a list of synonyms for [PARAGRAPH] and evaluate them in the context o
 Act as a language expert, proofread my paper on [TOPIC SENTENCE] while putting a focus on grammar and punctuation.
 In the context of [RESEARCH DOMAIN] translate [PARAPGRAPH] into the [LANGUAGE] language.
 Proofread the following text for spelling and grammatical errors and rewrite it with corrections. [PARAGRAPHS] 
+
 SUMMARIZATION
 Summarize the following content: [PARAPGRAPHS]
 Summarize the text in simpler and easier-to-understand terms. [PARAGRAPHS]
@@ -102,6 +115,7 @@ Identify the key findings and implications of this: [PARAGRAPHS]
 Remove the throat-clearing sentence from this paragraph: [PARAGRAPH]
 Frontload the argument in the following paragraph: [PARAGRAPH]
 Explain [TOPIC] as an analogy
+
 PLAN/PRESENTATION
 Develop a research plan for: [TOPIC SENTENCE]
 Write a schedule for completion in [TOPIC SENTENCE] in [NUMBER OF DAYS/MONTHS/YEARS]
