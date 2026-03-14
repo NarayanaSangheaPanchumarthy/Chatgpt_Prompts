@@ -1,4 +1,3 @@
-# Chatgpt_Prompts
 ChatGPT Prompts for Academic Writing
 In this repository, this list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans. Whether you're a student, researcher, or academic professional, these prompts can help you hone your writing abilities and tackle your writing projects with confidence.
 
